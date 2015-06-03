@@ -31,7 +31,6 @@ sub mpileup_parser{
         }
 
         my $flag         = 0;
-        my $mini_support = 100;
 
         foreach my $x (qw/A T C G/) {
             
